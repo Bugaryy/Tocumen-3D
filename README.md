@@ -38,15 +38,6 @@ Barra lateral:
 
 La página se ajusta sola al dispositivo. En celulares y equipos modestos aligera el terreno, la vegetación y los efectos visuales, y baja la resolución si hace falta para mantener la fluidez.
 
-## Publicación
-
-Es un solo archivo, `index.html`, que lleva dentro todos los datos y texturas. Para publicarlo en GitHub Pages:
-
-1. Sube `index.html`, `README.md` y `LICENSE` a un repositorio.
-2. En **Settings → Pages**, elige la rama `main` y la carpeta raíz.
-3. La página quedará en `https://<usuario>.github.io/<repositorio>/`.
-
-Necesita conexión a internet al abrirse, porque carga three.js y la tipografía desde sus CDN.
 
 ## Fuentes
 
