@@ -1,0 +1,44 @@
+MPTO 3D — Modelo 3D del Aeropuerto Internacional de Tocumen
+Copyright (c) 2026 Derek Cuan ("Delta Charlie") — https://github.com/Bugaryy
+Todos los derechos reservados.
+
+Este software, su código fuente, su diseño, sus modelos 3D, sus datos
+procesados, sus textos y su interfaz (en conjunto, "la Obra") son propiedad
+exclusiva del autor y están protegidos por las leyes de derecho de autor de
+la República de Panamá y por los tratados internacionales aplicables.
+
+Queda prohibido, sin autorización previa y por escrito del autor:
+
+  1. Copiar, reproducir, modificar, traducir, adaptar o crear obras
+     derivadas de la Obra, total o parcialmente.
+  2. Distribuir, publicar, sublicenciar, vender, alquilar, prestar o poner
+     a disposición de terceros la Obra o cualquier copia de ella, en
+     cualquier medio o formato.
+  3. Descompilar, desofuscar o extraer el código, los datos o los modelos
+     de la Obra para usarlos fuera de ella.
+  4. Eliminar, ocultar o alterar los avisos de autoría, de derechos de autor
+     o esta licencia.
+
+Se permite únicamente ver y usar la Obra, tal como el autor la publica, con
+fines personales de estudio y consulta.
+
+AVISO DE USO
+La Obra es una herramienta de estudio. NO es una fuente oficial de
+información aeronáutica y NO debe usarse para la navegación aérea, el
+control de tránsito aéreo ni ninguna operación real. Para información
+operacional consulte siempre la AIP Panamá vigente y sus enmiendas,
+publicada por la Autoridad Aeronáutica Civil de Panamá.
+
+EXENCIÓN DE GARANTÍAS
+LA OBRA SE ENTREGA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUIDAS LAS DE EXACTITUD, COMERCIABILIDAD O IDONEIDAD PARA UN
+FIN DETERMINADO. EN NINGÚN CASO EL AUTOR SERÁ RESPONSABLE DE DAÑOS O
+PERJUICIOS DERIVADOS DEL USO O DE LA IMPOSIBILIDAD DE USO DE LA OBRA.
+
+COMPONENTES DE TERCEROS
+La Obra carga en el navegador componentes de terceros que conservan sus
+propias licencias y no quedan cubiertos por este aviso:
+  - three.js 0.160.0 — Licencia MIT, (c) 2010-2024 three.js authors.
+  - Barlow Condensed (Google Fonts) — SIL Open Font License 1.1.
+
+Para permisos, licencias comerciales o consultas: https://github.com/Bugaryy
